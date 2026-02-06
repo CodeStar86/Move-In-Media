@@ -9,7 +9,7 @@ export function PackagesPage() {
   const packages = [
     {
       name: 'Silver Template Site',
-      price: '£5,000',
+      price: '£2,999',
       description: 'A professional starter template perfect for smaller agencies',
       features: [
         'Property listing showcase',
@@ -28,7 +28,7 @@ export function PackagesPage() {
     },
     {
       name: 'Gold Template Site',
-      price: '£12,000',
+      price: '£4,999',
       description: 'Our premium template with advanced features for established agencies',
       features: [
         'Advanced property showcase',

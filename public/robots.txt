@@ -1,0 +1,9 @@
+# robots.txt for MoveIn Media
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /admin/*
+
+# Sitemap
+Sitemap: https://movein-media.co.uk/sitemap.xml

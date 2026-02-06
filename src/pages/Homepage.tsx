@@ -143,7 +143,7 @@ export function Homepage() {
               <CardHeader>
                 <div className="flex items-center justify-between mb-2">
                   <span className="inline-block px-3 py-1 text-sm font-semibold text-gray-700 bg-gray-200 rounded-full">
-                    £5,000 Package
+                    £2,999 Package
                   </span>
                 </div>
                 <CardTitle className="text-2xl">Silver Template Site</CardTitle>
@@ -188,7 +188,7 @@ export function Homepage() {
               <CardHeader>
                 <div className="flex items-center justify-between mb-2">
                   <span className="inline-block px-3 py-1 text-sm font-semibold text-yellow-800 bg-yellow-200 rounded-full">
-                    £12,000 Package
+                    £4,999 Package
                   </span>
                 </div>
                 <CardTitle className="text-2xl">Gold Template Site</CardTitle>

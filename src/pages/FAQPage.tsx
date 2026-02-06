@@ -15,7 +15,7 @@ export function FAQPage() {
     },
     {
       question: 'What can I customize in the template packages?',
-      answer: 'For Template One and Template Two, you can customize THREE things only: (1) Theme colour (your brand colour in hex format), (2) Your agency logo, and (3) Font selection from our curated list. No other design or layout changes are permitted.',
+      answer: 'For Template One and Template Two, you can customize Four things only: (1) Theme colour (your brand colour in hex format), (2) Your agency logo, and (3) Font selection from our curated list, (4)The Content. No other design or layout changes are permitted.',
     },
     {
       question: 'How long does it take to build my website?',
@@ -31,11 +31,11 @@ export function FAQPage() {
     },
     {
       question: 'Are there any ongoing costs?',
-      answer: 'The package prices are one-time payments for website development. You\'ll need to arrange your own hosting and domain registration, which typically costs £5-15/month depending on your provider. We can recommend hosting providers suitable for estate agent websites.',
+      answer: 'The package prices are one-time payments for website development. You\'ll need to arrange your own hosting and domain registration.',
     },
     {
       question: 'Can I update the website content myself after launch?',
-      answer: 'Yes! We build websites that you can update. We\'ll provide training on how to update your property listings, add news items, and make content changes. For major design changes or new features, you can contact us for a quote.',
+      answer: 'Yes! We build websites that you can update. We\'ll provide training on how to update your property listings. For major design changes or new features, you can contact us for a quote.',
     },
     {
       question: 'Do the websites work on mobile phones?',
@@ -52,10 +52,6 @@ export function FAQPage() {
     {
       question: 'Do you send email notifications?',
       answer: 'No, we do not send automated emails. After you submit an enquiry, we review it in our admin dashboard and will contact you directly via phone or email to discuss your project.',
-    },
-    {
-      question: 'Can I see examples of your work?',
-      answer: 'Yes! Please contact us and we\'ll be happy to share examples of websites we\'ve built for other estate agencies (with their permission).',
     },
   ];
 
